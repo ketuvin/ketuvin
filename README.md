@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+#### 💬 I'm @ketuvin. Below are the technologies, programming languages, and frameworks that I play with for my web and mobile development.
+
+- Javascript
+- jQuery
+- Nativescript - Angular
+- PHP
+- Yii
+- Laravel
+- Firebase FCM, Realtime Database and Authentication
+- MySQL
+- PostgreSQL
+
+#### 🌱 I’m currently learning:
+
+- React
+
+
 <!--
 **ketuvin/ketuvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
