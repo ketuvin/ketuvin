@@ -2,6 +2,7 @@
 
 #### 💬 I'm @ketuvin. Below are the technologies, programming languages, and frameworks that I play with for my web and mobile development.
 
+- NextJS
 - Javascript
 - jQuery
 - Nativescript - Angular
@@ -11,10 +12,6 @@
 - Firebase FCM, Realtime Database and Authentication
 - MySQL
 - PostgreSQL
-
-#### 🌱 I’m currently learning:
-
-- React
 
 
 <!--
