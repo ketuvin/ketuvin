@@ -3,7 +3,7 @@
 #### 💬 I'm @ketuvin. Below are the technologies, programming languages, and frameworks that I play with for my web and mobile development.
 
 - NextJS
-- Bootstrap, SASS, Tailwind CSS, Chakra UI
+- CSS with Bootstrap, SASS, Tailwind CSS, Chakra UI
 - Javascript
 - jQuery
 - Nativescript - Angular
