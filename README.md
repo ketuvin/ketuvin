@@ -20,6 +20,14 @@
 - PostgreSQL
 - SQL Server
 
+# Goal by next year 2024
+
+Learn this ff. technologies
+- NodeJS
+- NestJS
+- Ruby on Rails
+- AI
+
 
 <!--
 **ketuvin/ketuvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
