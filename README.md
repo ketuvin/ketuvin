@@ -20,13 +20,14 @@
 - PostgreSQL
 - SQL Server
 
-# Goal by next year 2024
+### Goal by next year 2024
 
-Learn this ff. technologies
-- NodeJS
-- NestJS
-- Ruby on Rails
-- AI
+- Learn this ff. technologies
+    - NodeJS
+    - NestJS
+    - Ruby on Rails
+    - AI
+- Create awesome personal projects
 
 
 <!--
