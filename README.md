@@ -76,12 +76,6 @@ Passionate Full Stack Developer specializing in **Next.js**, **TypeScript**, and
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ketuvin&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ## 📬 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuenteskevin2015@gmail.com)
