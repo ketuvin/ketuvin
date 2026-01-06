@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-Passionate Full Stack Developer specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**. I build scalable web applications with clean code and modern best practices.
+A Full Stack Developer specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**. I build scalable web applications with clean code and modern best practices.
 
 - 🎯 **Front End**: 4+ years
 - ⚙️ **Back End**: 3+ years
